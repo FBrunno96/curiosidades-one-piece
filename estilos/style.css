@@ -1,0 +1,260 @@
+@charset "UTF-8";
+
+@font-face {
+   font-family: 'One Piece';
+   src: url('../fontes/onepiece.ttf') format('truetype');
+}
+
+@font-face {
+   font-family: 'Pirate Jack';
+   src: url('../fontes/MonkeyPirates.ttf') format('truetype');
+}
+
+@font-face {
+   font-family: 'Cocogoose';
+   src: url('../fontes/Cocogoose.ttf');
+}
+
+* {
+   margin: 0px;
+   padding: 0px;
+}
+
+:root {
+
+   --cor1: #c8472c;
+   --cor2: #412a1e;
+   --cor3: #f8de3c;
+   --cor4: #58acf4;
+   --cor5: #105edd;
+   --cor6: #0b3075;
+   --cor7: #061738;
+
+   --fonte-topo: 'One Piece', cursive;
+   --fonte-titulo: 'Pirate Jack', cursive;
+   --fonte-padrao: 'Arial, Helvetica', sans-serif;
+   --fonte-destaque: 'Cocogoose',cursive;
+
+   --icone: link="<img src="https://icons.iconarchive.com/icons/crountch/one-piece-jolly-roger/24/Luffys-flag-2-icon.png" width="24" height="24">"
+}
+
+body {
+   font-family: var(--fonte-padrao);
+   background-image: linear-gradient(to bottom, var(--cor4), var(--cor7));
+}
+
+body p {
+   text-align: justify;
+}
+
+header {
+   background-image: linear-gradient(to top, var(--cor6), var(--cor4));
+   min-height: 150px;
+}
+
+header h1 {
+   font-family: var(--fonte-topo);
+   font-size: 3.5em;
+   text-align: center;
+   letter-spacing: 0.1em;
+   word-spacing: 0.1em;
+   margin: auto;
+   padding: 15px;
+   color: white;
+   text-shadow: 0px 0px 6px rgb(0, 0, 0);
+}
+
+header p {
+   text-align: center;
+   line-height: 2em;
+   max-width: 600px;
+   margin: auto;
+   padding: 10px;
+   color: white;
+   text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.521);
+}
+
+nav {
+   background-color: var(--cor6);
+   padding: 10px;
+   box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.295);
+}
+
+nav a {
+   font-weight: bold;
+   text-decoration: none;
+   color: white;
+   padding: 10px;
+   margin: 10px 5px;
+   transition: 1s;
+   border-radius: 5px;
+}
+
+nav a:hover {
+   background-color: var(--cor4);
+   color: var(--cor6);
+}
+
+main {
+   max-width: 900px;
+   margin: 15px auto;
+   padding: 0px 0px 10px 0px;
+   background-color: white;
+   border-radius: 5px;
+   box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.404);
+}
+
+main > h1 {
+   margin: 10px 0px;
+   padding: 10px;
+   font-family: var(--fonte-titulo);
+   background-image: linear-gradient(to right, var(--cor4), transparent);
+   max-width: 600px;
+   color: var(--cor2);
+   border-radius: 5px 0px 0px 0px;
+
+}
+
+main > h2, main > h3 {
+   font-family: var(--fonte-destaque);
+   padding: 10px;
+   margin: 10px 0px;
+   background-image: linear-gradient(to right, var(--cor4), transparent);
+   color: var(--cor2);
+}
+
+main p {
+   text-align: justify;
+   font-size: large;
+   text-indent: 30px;
+   line-height: 1.5em;
+   padding: 10px;
+}
+
+main a {
+   color: #105edd;
+   text-decoration: none;
+   font-weight: bold;
+}
+
+main a:hover {
+   background-color: var(--cor1);
+   color: var(--cor3);
+   border-radius: 1px;
+}
+
+main b {
+   color: var(--cor6);
+   font-weight: bold;
+}
+
+main ul {
+   padding: 15px 30px;
+   background-color: var(--cor4);
+   margin: 15px 15px 5px 15px;
+   border-radius: 20px;
+   box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.507);
+
+}
+
+main li {
+   list-style-position: inside;
+   text-align: justify;
+   line-height: 1.5em;
+   color: var(--cor2);
+   list-style-image: url(../imagens/icon-flag.png);
+}
+
+div.video {
+   position: relative;
+   margin: 0px -20px 30px -20px;
+   padding: 20px;
+   padding-bottom: 58%;
+}
+
+div.video > iframe {
+   position: absolute;
+   top: 5%;
+   left: 5%;
+   width: 90%;
+   height: 90%;
+}
+
+strong {
+   color: var(--cor6);
+   font-weight: bold;
+}
+
+aside > p {
+   font-size: large;
+   text-indent: 0px;
+   background-color: var(--cor2);
+   margin: 10px auto;
+   max-width: 600px;
+   color: var(--cor3);
+   border-radius: 5px;
+   box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.363);
+}
+
+footer {
+   background-color: var(--cor6);
+   padding: 5px;
+}
+
+footer p {
+   color: var(--cor3);
+   text-align: center;
+}
+
+footer a {
+   color: var(--cor4);
+   font-weight: bold;
+   text-decoration: none;
+}
+
+footer a:hover {
+   text-decoration: underline;
+}
+
+footer a::after {
+   content: '\00A0\1F517';
+}
+
+footer strong {
+   color: var(--cor1);
+}
+
+.imagens {
+   display: block;
+   text-align: center;
+}
+
+.imagens-flexiveis {
+   display: block;
+   margin: auto;
+   padding: 0px;
+   text-align: center;
+}
+
+div  {
+   columns: 2;
+}
+
+a.externo::after {
+   content: '\00A0\1F517';
+}
+
+a.voltar-topo {
+   display: block;
+   margin: 5px auto;
+   max-width: 64px;
+}
+
+p#autor {
+   text-align: center;
+}
+
+p#autor::before, p#autor::after {
+   content: '\00A0\2753\00A0';
+}
+

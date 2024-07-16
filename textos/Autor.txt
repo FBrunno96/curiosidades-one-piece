@@ -1,0 +1,29 @@
+[header]
+	CURIOSIDADES DE ONE PIECE
+
+	Página feito por um fã para contar algumas curiosidades sobre esse 	maravilhosa obra que já transcende gerações.
+[header]
+
+[nav]
+	Home
+	Mangá
+	Anime
+	Live Action
+	Autor
+[nav]
+
+[main]
+	
+	
+
+
+[main]
+
+[footer]
+	Site criado por Brunno Faissal. Apenas por motivos de teste e estudos. Todos 	os direitos reservados a Eiichiro Oda, Toei Animation, Shueisha e Netflix.
+[footer]
+
+
+https://pt.wikipedia.org/wiki/Eiichiro_Oda
+https://onepiece.fandom.com/pt/wiki/Eiichiro_Oda
+https://www.desenhoonline.com/site/40-curiosidades-sobre-eiichiro-oda-autor-de-one-piece/

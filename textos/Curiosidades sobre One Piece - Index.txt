@@ -1,0 +1,42 @@
+[header]
+	CURIOSIDADES DE ONE PIECE
+
+	Página feito por um fã para contar algumas curiosidades sobre esse 	maravilhosa obra que já transcende gerações.
+[header]
+
+[nav]
+	Home
+	Mangá
+	Anime
+	Live Action
+	Autor
+[nav]
+
+[main]
+	ONE PIECE
+
+		One Piece é um mangá escrito e ilustrado por Eiichiro Oda. Os 	capítulos são serializados pela revista Weekly Shonen Jump desde julho de 	1997. Ganhou uma adaptação para anime pela Toei Animation em Outubro de 	1999 e em Live Action pela Netflix em Agosto de 2023.
+		A obra conta a história de Monkey D. Luffy, um jovem que teve as 	propriedades de seu corpo alteradas por ter comido uma Akuma no Mi (Fruta 	do Diabo), ganhando assim as propriedades de borracha. Junto de sua 	tripulação, viaja pela Grand Line em busca do famoso tesouro One Piece, 	enfrentando inúmeras adversidades durante a viagem. 
+		Apesar de ter um conceito central de luta pela liberdade e por 	seus sonhos, a série trabalha muito bem alguns temas sérios do nosso mundo 	como escravidão, preconceito, tráfico humano, absolutismo, totalitarismo, 	pobreza, corrupção, cobaias, clonagem, entre outros.
+		Presente no Guinness World Records 	(https://www.guinnessworldrecords.com/news/2023/10/one-piece-the-record-	of-the-mega-popular-manga-series-explained-760171) por ser a série em 	quadrinho com o maior número de cópias publicadas por um único autor. A 	primeira vez que o recorde foi batido foi em 2014 onde a produção entrou 	para o Guinness com 320,866 milhões de cópias vendidas, batendo seu 	próprio recorde em agosto de 2022 com 500 milhões de cópias vendidas, 	sendo 416,566 milhões somente no Japão. 
+	
+	LOGO DE ONE PIECE
+
+	-informação sobre sua criação-
+	-imagem da logo-
+		Uma teoria bem legal sobre a logo é que ela representaria alguns 	elementos do mapa do mundo de One Piece. O texto representaria a 	Grand Line, as linhas acima e abaixo do texto, os Calm Belts que cercam a 	Grand Line. A letra O com a caveira e os ossos cruzados representaria a 	Reverse Mountain, onde os ossos marcam a entrada de cada um dos mares. O 	Luffy em vermelho representaria a Red Line, que cruza a Grand Line e 	separa os 4 mares de One Piece. A âncora seria a representação do final da 	jornada. E a corda que perpassa toda logo conecta a letra O, que é a 	entrada ou início da jornada, à âncora, que seria o fim dela. 
+
+	EIICHIRO ODA
+
+		Nascido em 1 de janeiro de 1975 na cidade de Kumamoto, no Japão, é 	um mangaká, mais conhecido como o criador do mangá "One Piece".
+		A popularidade da obra resultou em Oda ser nomeado como um dos 	maiores artistas de todos os tempos que mudou a história dos mangás.
+		Casado desde 2004 com Chiaki Inaba, que interpretou a personagem 	Nami durante as performances de palco de One Piece no festival Jump Festa.
+
+	-foto de oda-
+	
+	Quer saber mais sobre Eiichiro Oda? Confira na nossa seção do <a>Autor<a>.
+[main]
+
+[footer]
+	Site criado por Brunno Faissal. Apenas por motivos de teste e estudos. Todos 	os direitos reservados a Eiichiro Oda, Toei Animation, Shueisha e Netflix.
+[footer]
