@@ -57,9 +57,9 @@ header h1 {
    font-size: 3.5em;
    text-align: center;
    letter-spacing: 0.1em;
-   word-spacing: 0.1em;
-   margin: auto;
+   word-spacing: 0.2em;
    padding: 15px;
+   padding-top: 30px;
    color: white;
    text-shadow: 0px 0px 6px rgb(0, 0, 0);
 }
