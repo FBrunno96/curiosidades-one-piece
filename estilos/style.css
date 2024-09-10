@@ -48,7 +48,7 @@ body p {
 }
 
 header {
-   background-image: linear-gradient(to top, var(--cor6), var(--cor4));
+   background-color: var(--cor6);
    min-height: 150px;
 }
 
